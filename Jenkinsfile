@@ -8,7 +8,7 @@ customWorkspace "/mnt/pipeline"
 stages {
 stage ("stage-1") {
 steps {
-echo "hello"
+echo "hello q2 branch"
 }
 }
 }
